@@ -1,6 +1,7 @@
 <?php
 // Heading
 $_['heading_title']                = '<a href="https://gixoc.ru">GixOC.ru</a> - <b>Edit robots.txt / Редактирование robots.txt</b>';
+$_['text_title']                   = 'GixOC.ru - Edit robots.txt / Редактирование robots.txt';
 
 // Text
 $_['text_module']                  = 'Modules';
