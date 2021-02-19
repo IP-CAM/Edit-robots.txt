@@ -1,23 +1,24 @@
 # Edit-robots.txt
 
 
-## Редактор Robot.txt - модуль для редактирования robots.txt в Opencart (ocStore) прямо из админки.
+## Robot.txt Editor - a module for editing robots.txt in Opencart (ocStore) right from the admin area.
 
 
 
-Если файла нет (как на оригинальном Opencart'е к примеру), он его создаст. При необходимости,  можно заполнить данными из файла robots.txt сборки ocStore соответствующей версии.
+If the file does not exist (as on the original Opencart for example), it will create it. If necessary, you can fill in the data from the robots.txt file of the ocStore assembly of the corresponding version.
 
-Устанавливается в модули, vQmod'а не требует, никакие файлы не перезаписывает.
+Installed in modules, does not require vQmod, does not overwrite any files.
 
 
  
 
-*Распространяется:* ***«как есть» (as is)*** 
+* Distributed: * *** "as is" (as is) ***
 
-*Версия Opencart (ocStore):* ***1.5, 2.1, 2.2, 2.3, 3.0***
+* Opencart version (ocStore): * *** 1.5, 2.1, 2.2, 2.3, 3.0 ***
 
-*Установка:*
+* Installation: *
 
-- Для версии Opencart 2.x, 3.0 - стандартная через Установку дополнений (через встроенный Ocmod). 
+- For Opencart 2.x, 3.0 - standard via Add-ons Installation (via built-in Ocmod).
 
-- Для версии Opencart 1.5 — просто загрузите содержимое upload из архива 1.5.x.gixoc.editrobots.zip в корень сайта.
+- For Opencart 1.5 - just upload the upload content from 1.5.x.gixoc.editrobots.zip archive to your site root. 
+- 
