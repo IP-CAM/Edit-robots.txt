@@ -21,4 +21,3 @@ Installed in modules, does not require vQmod, does not overwrite any files.
 - For Opencart 2.x, 3.0 - standard via Add-ons Installation (via built-in Ocmod).
 
 - For Opencart 1.5 - just upload the upload content from 1.5.x.gixoc.editrobots.zip archive to your site root. 
-- 
